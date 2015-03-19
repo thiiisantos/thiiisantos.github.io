@@ -13,21 +13,6 @@ header-img: "img/post-bg-06.jpg"
 
 <p>Veja o script abaixo:</p>
 
-<pre>
-<code>
-<?php 
-    $pasta = '../uploads/arquivos/'; 
-    $diretorio = dir($pasta); 
-
-    while ( $arquivo = $diretorio -> read() ) { 
-        
-        echo "<a href='".$pasta.$arquivo."'>".$arquivo."</a><br />";
-
-    }
-
-    $diretorio -> close();
-?>
-</code>
-</pre>
+<div data-gist-id="dc3fb2f594d4ec843455" data-gist-show-loading="false"></div>
 
 <p>É importante que seja indicado o caminho para o diretório corretamente na variável <strong>$pasta</strong>. Logo após armazenamos o diretório absoluto na variável <strong>$diretorio</strong>.</p>
