@@ -29,6 +29,10 @@ layout: default
 				{{ content }}
 
                 <hr>
+                
+                {% include disqus.html %}
+
+                <hr>
 
                 <ul class="pager">
                     {% if page.previous.url %}
