@@ -1,6 +1,6 @@
 # Site settings
 title: Thiago Santos Blog
-header-img: img/home-bg.jpg
+header-img: "img/home-bg.jpg"
 email: ola@thiagosantos.in
 description: "Desenvolvimento, Entretenimento e Tecnologia"
 baseurl: ""
