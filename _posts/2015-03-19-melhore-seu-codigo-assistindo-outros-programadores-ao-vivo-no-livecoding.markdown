@@ -4,7 +4,7 @@ title:      "Melhore seu código assistindo outros programadores ao vivo no Live
 subtitle:   ""
 date:       2015-03-19 23:00:00
 author:     "Thiago Santos"
-header-img: "img/post-bg-livecoding-cropped.jpg"
+header-img: "img/post-bg-livecoding.jpg"
 ---
 
 <p>Existem muitas fontes gratuitas para aprender programação na web, como a <a href="http://www.codecademy.com/pt" title="Codecademy" target="_blank">Codecademy</a> e o <a href="https://www.coursera.org" title="Coursera" target="_blank">Coursera</a>. Entre elas, o Livecoding se diferencia por reunir canais de vídeo com programadores trabalhando ao vivo, em problemas e produtos de verdade.</p>
